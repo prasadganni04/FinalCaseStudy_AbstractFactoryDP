@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalCaseStudy_AbstractFactoryDP", "FinalCaseStudy_AbstractFactoryDP\FinalCaseStudy_AbstractFactoryDP.csproj", "{D6FECA0C-CA32-451F-8A94-376C56486AB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalCaseStudy_ObserverPattern", "FinalCaseStudy_ObserverPattern\FinalCaseStudy_ObserverPattern.csproj", "{8100CF40-690B-49CD-AE03-CFE1C16D965B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6FECA0C-CA32-451F-8A94-376C56486AB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6FECA0C-CA32-451F-8A94-376C56486AB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6FECA0C-CA32-451F-8A94-376C56486AB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6FECA0C-CA32-451F-8A94-376C56486AB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8100CF40-690B-49CD-AE03-CFE1C16D965B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8100CF40-690B-49CD-AE03-CFE1C16D965B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8100CF40-690B-49CD-AE03-CFE1C16D965B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8100CF40-690B-49CD-AE03-CFE1C16D965B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1208197-780F-434B-8AE2-C1C292DD54A7}
+	EndGlobalSection
+EndGlobal

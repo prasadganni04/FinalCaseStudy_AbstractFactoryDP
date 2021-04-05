@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FinalCaseStudy_AbstractFactoryDP/1.0.0": {
+        "runtime": {
+          "FinalCaseStudy_AbstractFactoryDP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FinalCaseStudy_AbstractFactoryDP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

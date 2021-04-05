@@ -1,0 +1,12 @@
+C:\Users\GVSS Prasad\source\repos\FinalCaseStudy_AbstractFactoryDP\FinalCaseStudy_AbstractFactoryDP\bin\Debug\netcoreapp3.1\FinalCaseStudy_AbstractFactoryDP.exe
+C:\Users\GVSS Prasad\source\repos\FinalCaseStudy_AbstractFactoryDP\FinalCaseStudy_AbstractFactoryDP\bin\Debug\netcoreapp3.1\FinalCaseStudy_AbstractFactoryDP.deps.json
+C:\Users\GVSS Prasad\source\repos\FinalCaseStudy_AbstractFactoryDP\FinalCaseStudy_AbstractFactoryDP\bin\Debug\netcoreapp3.1\FinalCaseStudy_AbstractFactoryDP.runtimeconfig.json
+C:\Users\GVSS Prasad\source\repos\FinalCaseStudy_AbstractFactoryDP\FinalCaseStudy_AbstractFactoryDP\bin\Debug\netcoreapp3.1\FinalCaseStudy_AbstractFactoryDP.runtimeconfig.dev.json
+C:\Users\GVSS Prasad\source\repos\FinalCaseStudy_AbstractFactoryDP\FinalCaseStudy_AbstractFactoryDP\bin\Debug\netcoreapp3.1\FinalCaseStudy_AbstractFactoryDP.dll
+C:\Users\GVSS Prasad\source\repos\FinalCaseStudy_AbstractFactoryDP\FinalCaseStudy_AbstractFactoryDP\bin\Debug\netcoreapp3.1\FinalCaseStudy_AbstractFactoryDP.pdb
+C:\Users\GVSS Prasad\source\repos\FinalCaseStudy_AbstractFactoryDP\FinalCaseStudy_AbstractFactoryDP\obj\Debug\netcoreapp3.1\FinalCaseStudy_AbstractFactoryDP.AssemblyInfoInputs.cache
+C:\Users\GVSS Prasad\source\repos\FinalCaseStudy_AbstractFactoryDP\FinalCaseStudy_AbstractFactoryDP\obj\Debug\netcoreapp3.1\FinalCaseStudy_AbstractFactoryDP.AssemblyInfo.cs
+C:\Users\GVSS Prasad\source\repos\FinalCaseStudy_AbstractFactoryDP\FinalCaseStudy_AbstractFactoryDP\obj\Debug\netcoreapp3.1\FinalCaseStudy_AbstractFactoryDP.csproj.CoreCompileInputs.cache
+C:\Users\GVSS Prasad\source\repos\FinalCaseStudy_AbstractFactoryDP\FinalCaseStudy_AbstractFactoryDP\obj\Debug\netcoreapp3.1\FinalCaseStudy_AbstractFactoryDP.dll
+C:\Users\GVSS Prasad\source\repos\FinalCaseStudy_AbstractFactoryDP\FinalCaseStudy_AbstractFactoryDP\obj\Debug\netcoreapp3.1\FinalCaseStudy_AbstractFactoryDP.pdb
+C:\Users\GVSS Prasad\source\repos\FinalCaseStudy_AbstractFactoryDP\FinalCaseStudy_AbstractFactoryDP\obj\Debug\netcoreapp3.1\FinalCaseStudy_AbstractFactoryDP.genruntimeconfig.cache
